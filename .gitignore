@@ -30,7 +30,3 @@ secrets.txt
 # This may be unnecessary unless you want more specificity.
 # Terraform-backend/.terraform/providers/...
 # Terraform-resources/.terraform/providers/...
-ansible
-images
-terraform
-README.md
